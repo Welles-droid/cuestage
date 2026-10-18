@@ -1,0 +1,47 @@
+CueStage 1.0.0
+Copyright (c) 2026 CueStage. All rights reserved.
+
+-------------------------------------------------------------------------------
+TÜRKÇE
+-------------------------------------------------------------------------------
+Bu yazılımın ve ekindeki belgelerin (kullanım rehberi, örnek gösteriler) tüm hakları
+saklıdır.
+
+Kullanım izni: Bu yazılımın bir kopyasını kendi bilgisayarınızda ya da kurumunuzun
+bilgisayarlarında ücretsiz olarak çalıştırabilir ve gösterilerinizde kullanabilirsiniz.
+
+Hak sahibinin yazılı izni olmadan:
+  - yazılımı ya da belgelerini kopyalayıp başkalarına dağıtamaz, satamaz, kiralayamaz,
+    internette yayınlayamazsınız;
+  - yazılımı değiştiremez, kaynak koduna dönüştüremez (decompile) ya da tersine
+    mühendislik yapamazsınız (yürürlükteki yasaların açıkça izin verdiği durumlar hariç);
+  - telif hakkı bildirimlerini ve dijital imzayı kaldıramazsınız.
+
+Yazılım "olduğu gibi" sunulur; hiçbir garanti verilmez. Hak sahibi, yazılımın
+kullanımından doğan doğrudan ya da dolaylı hiçbir zarardan sorumlu tutulamaz.
+Gösterinizden önce yazılımı her zaman kendi sisteminizde deneyin.
+
+Yazılımın içindeki üçüncü taraf bileşenler (NAudio, .NET) kendi lisanslarına tabidir;
+bkz. THIRD-PARTY-NOTICES.txt. Bu lisans o bileşenlerin lisanslarını değiştirmez.
+
+-------------------------------------------------------------------------------
+ENGLISH
+-------------------------------------------------------------------------------
+All rights in this software and its accompanying documents (user guide, example
+shows) are reserved.
+
+Permission to use: you may run a copy of this software free of charge on your own
+computers or your institution's computers and use it in your productions.
+
+Without the copyright holder's written permission you may not:
+  - copy and distribute, sell, rent or publish the software or its documents;
+  - modify, decompile or reverse engineer the software (except where applicable law
+    expressly permits it);
+  - remove copyright notices or the digital signature.
+
+The software is provided "as is", without warranty of any kind. The copyright holder
+is not liable for any direct or indirect damage arising from its use. Always test the
+software on your own system before a performance.
+
+Third-party components included in the software (NAudio, .NET) are licensed under
+their own terms; see THIRD-PARTY-NOTICES.txt. This licence does not change them.
