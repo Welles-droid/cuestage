@@ -1,3 +1,5 @@
+<img src="img/logo.svg" width="96" alt="CueStage">
+
 # CueStage
 
 **Tiyatro ve okul gösterileri için ücretsiz ses ve gösteri kontrolü — Windows 10 / 11.**
@@ -11,7 +13,7 @@ Gösterinin seslerini sıraya dizersin; her işarette GO'ya basarsın. Fade'ler,
 
 **[En son sürüm / Latest release →](../../releases/latest)**
 
-- `CueStage-1.0.0.zip` — program, Türkçe başlangıç rehberi (PDF), örnek gösteri. Kurulum gerekmez: zip'i aç, `CueStage.exe`'yi çalıştır.
+- `CueStage-1.0.1.zip` — program, Türkçe başlangıç rehberi (PDF), örnek gösteri. Kurulum gerekmez: zip'i aç, `CueStage.exe`'yi çalıştır.
 - `CueStage-Rehberi.pdf` — 39 sayfalık Türkçe başlangıç rehberi.
 
 Web: **https://cuestage.barish.dev**

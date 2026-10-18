@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CueStage">
+  <defs>
+    <linearGradient id="gilt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d494"/><stop offset=".45" stop-color="#b08442"/><stop offset=".7" stop-color="#e6c886"/><stop offset="1" stop-color="#8a6430"/>
+    </linearGradient>
+    <linearGradient id="velvet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5a0a12"/><stop offset=".5" stop-color="#a9282f"/><stop offset="1" stop-color="#6e1019"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx=".4" cy=".35" r=".7">
+      <stop offset="0" stop-color="#ffb3a6"/><stop offset=".35" stop-color="#ff3b2f"/><stop offset="1" stop-color="#b8160e"/>
+    </radialGradient>
+  </defs>
+  <!-- the curtains, drawn open -->
+  <path d="M13 24 C13 14 20 9 28 8 C22 18 21 34 24 54 H13 Z" fill="url(#velvet)"/>
+  <path d="M51 24 C51 14 44 9 36 8 C42 18 43 34 40 54 H51 Z" fill="url(#velvet)"/>
+  <!-- the proscenium arch -->
+  <path d="M10 56 V25 A22 22 0 0 1 54 25 V56" fill="none" stroke="url(#gilt)" stroke-width="4" stroke-linecap="round"/>
+  <!-- centre stage: the cue light, whose tail makes it a Q -->
+  <circle cx="32" cy="37" r="8" fill="url(#lamp)"/>
+  <path d="M29.5 43.6 C33.5 47.6 38.5 49.2 45.5 47.4 L45.8 49.4 C38 51.8 32.4 50 28 45.2 Z" fill="#e8281c"/>
+  <!-- the stage floor -->
+  <path d="M8 56.5 H56" stroke="#c99d5c" stroke-width="3" stroke-linecap="round"/>
+</svg>
